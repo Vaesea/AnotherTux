@@ -1,6 +1,8 @@
 # AnotherTux
 Yet ANOTHER Tux???????? This is a fanmade add-on for SuperTux 0.6.3 that's meant to be similar to a Mario game but in SuperTux instead and an add-on too.
 
+This is named after the old name of TimeTux, one of my old SuperTux mods.
+
 ## Worlds
 Groovy Grassland (Main Thing: Nothing) (9 Levels)
 
