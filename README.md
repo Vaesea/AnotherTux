@@ -6,8 +6,6 @@ This is named after the old name of TimeTux, one of my old SuperTux mods.
 ## Credits
 The song used for the desert level is from here: https://opengameart.org/content/82-songs
 
-The unused song is this: https://opengameart.org/content/happy-game-theme-demo (It will be used for the worldmap in the v1.0 / full version!)
-
 ## Worlds
 Groovy Grassland (Main Thing: Nothing) (9 Levels)
 
