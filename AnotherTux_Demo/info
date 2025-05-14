@@ -1,0 +1,6 @@
+(supertux-level-subset
+  (title (_ "AnotherTux Demo"))
+  (description (_ "3 Levels"))
+  (levelset #t)
+  (hide-from-contribs #f)
+)
