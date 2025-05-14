@@ -11,7 +11,7 @@ The unused song is this: https://opengameart.org/content/happy-game-theme-demo (
 ## Worlds
 Groovy Grassland (Main Thing: Nothing) (9 Levels)
 
-Orange Desert (Main Thing: Quicksand?) (9 Levels)
+Orange Desert (Main Thing: Nothing) (9 Levels)
 
 Ghost Forest (Main Thing: Poison) (10 Levels)
 
